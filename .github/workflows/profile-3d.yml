@@ -10,15 +10,17 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: actions/checkout@v2
+      - uses: yoshi389111/github-profile-3d-contrib@0.4.0
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          MAX_REPOS: 250
       - name: Commit & Push
         run: |
-          git config user.name github-actions
+          git config user.name ${{ github.repository_owner }}
           git config user.email 61603718+Tugamer89@users.noreply.github.com
           git add -A .
           git commit -m "GitHub 3D Profile"
           git push
+          
