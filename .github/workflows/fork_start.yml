@@ -17,4 +17,4 @@ jobs:
         uses: ouuan/This-repo-has-x-stars-y-forks-action@v2
         with:
           token: ${{ secrets.GH_TOKEN }}
-          template: "Tugamer89's profile with <starCount> stars ⭐ and <forkCount> forks 🎉."
+          template: "Tugamer89's profile with <starCount> stars ⭐ and <forkCount> forks 🎉"
