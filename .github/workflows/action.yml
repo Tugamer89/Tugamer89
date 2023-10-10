@@ -13,8 +13,8 @@ jobs:
         uses: lowlighter/metrics@master
         with:
           filename: metrics.svg
-          token: ${{ secrets.GH_TOKEN }}
-          committer_token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GH2_TOKEN }}
+          committer_token: ${{ secrets.GH2_TOKEN }}
           base: "header, activity, community, repositories"
           plugin_introduction: yes
           plugin_introduction_title: yes
@@ -65,13 +65,13 @@ jobs:
         uses: lowlighter/metrics@master
         with:
           filename: metrics.detailed.svg
-          token: ${{ secrets.GH_TOKEN }}
-          committer_token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GH2_TOKEN }}
+          committer_token: ${{ secrets.GH2_TOKEN }}
           base: "metadata"
           plugin_gists: yes
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
-          plugin_pagespeed_token: ${{ secrets.GH_TOKEN }}
+          plugin_pagespeed_token: ${{ secrets.GH2_TOKEN }}
           plugin_pagespeed_screenshot: yes
           plugin_pagespeed_pwa: yes
           plugin_followup: yes
