@@ -60,8 +60,8 @@
 
 <code><img height="40" width="80" src="https://github.com/Tugamer89/Tugamer89/blob/main/images/git.png"></code>
 <code><img height="40" width="40" src="https://github.com/Tugamer89/Tugamer89/blob/main/images/github.png"></code>
-<code><img height="40" width="40" src="https://github.com/Tugamer89/Tugamer89/blob/main/images/vs.svg"></code>
-<code><img height="40" width="40" src="https://github.com/Tugamer89/Tugamer89/blob/main/images/vscode.svg"></code>
+<code><img height="40" width="40" src="https://github.com/Tugamer89/Tugamer89/blob/main/images/vs.png"></code>
+<code><img height="40" width="40" src="https://github.com/Tugamer89/Tugamer89/blob/main/images/vscode.png"></code>
 <code><img height="40" width="40" src="https://github.com/Tugamer89/Tugamer89/blob/main/images/atom.png"></code>
 <code><img height="40" width="40" src="https://github.com/Tugamer89/Tugamer89/blob/main/images/kali.png"></code>
 <code><img height="40" width="40" src="https://github.com/Tugamer89/Tugamer89/blob/main/images/ubuntu.png"></code>
