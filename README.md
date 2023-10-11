@@ -10,7 +10,7 @@
 <img align="right" height="250" width="400" alt="GIF" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=1000&pause=100&color=F7F7F7&center=true&vCenter=true&multiline=true&random=false&width=430&height=150&lines=A+student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+passionate+about;computer+science+%F0%9F%92%BB%2C;programming+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;and+cybersecurity+%F0%9F%94%92+%F0%9F%99%83"/>
 
 - 📚 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 **𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚜𝚌𝚒𝚎𝚗𝚌𝚎.**
-- 🤖 𝙸’𝚖 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝚖𝚊𝚌𝚑𝚒𝚗𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐.**
+- 🤖 𝙸’𝚖 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **RISC-V architecture.**
 - 🤝 𝙸 𝚎𝚗𝚓𝚘𝚢 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚗𝚐 𝚘𝚗 **𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜.**
 - 💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚗𝚢𝚝𝚑𝚒𝚗𝚐 𝚊𝚋𝚘𝚞𝚝 **𝙲++.**
 - 💡 𝙼𝚘𝚝𝚝𝚘: **𝙸𝚗 𝚝𝚑𝚎 𝚠𝚘𝚛𝚕𝚍 𝚘𝚏 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚜𝚌𝚒𝚎𝚗𝚌𝚎, 𝚊𝚗𝚢𝚝𝚑𝚒𝚗𝚐 𝚒𝚜 𝚙𝚘𝚜𝚜𝚒𝚋𝚕𝚎.**
