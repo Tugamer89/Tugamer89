@@ -296,14 +296,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="342.87095061115326" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="342.87095061115326" y="0" width="111.21233873485644" height="8" fill="#ffa500"/>
-                    <rect mask="url(#languages-bar)" x="454.0832893460097" y="0" width="2.26065906036664" height="8" fill="#ffff00"/>
-                    <rect mask="url(#languages-bar)" x="456.34394840637634" y="0" width="1.0665942028114213" height="8" fill="#008000"/>
-                    <rect mask="url(#languages-bar)" x="457.41054260918776" y="0" width="0.9323388791428745" height="8" fill="#0000ff"/>
-                    <rect mask="url(#languages-bar)" x="458.3428814883306" y="0" width="0.8328918569143464" height="8" fill="#4b0082"/>
-                    <rect mask="url(#languages-bar)" x="459.175773345245" y="0" width="0.7639020984458347" height="8" fill="#ee82ee"/>
-                    <rect mask="url(#languages-bar)" x="459.93967544369076" y="0" width="0.06032455630918499" height="8" fill="#162221"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.16236609769226" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="343.16236609769226" y="0" width="111.30686117177852" height="8" fill="#ffa500"/>
+                    <rect mask="url(#languages-bar)" x="454.46922726947076" y="0" width="2.2625804569119032" height="8" fill="#ffff00"/>
+                    <rect mask="url(#languages-bar)" x="456.73180772638267" y="0" width="1.067500730669783" height="8" fill="#008000"/>
+                    <rect mask="url(#languages-bar)" x="457.7993084570524" y="0" width="0.9331312996952728" height="8" fill="#0000ff"/>
+                    <rect mask="url(#languages-bar)" x="458.73243975674774" y="0" width="0.764551359928296" height="8" fill="#4b0082"/>
+                    <rect mask="url(#languages-bar)" x="459.496991116676" y="0" width="0.44263305550900145" height="8" fill="#ee82ee"/>
+                    <rect mask="url(#languages-bar)" x="459.939624172185" y="0" width="0.06037582781496802" height="8" fill="#162221"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -316,7 +316,7 @@
                             </div>
                             <small>
                                 <div>9.30 MB</div>
-                                <div>74.54%</div>
+                                <div>74.6%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -348,11 +348,11 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#ee82ee" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                JavaScript
+                                GDScript
                             </div>
                             <small>
-                                <div>20.7 kB</div>
-                                <div>0.17%</div>
+                                <div>11.9 kB</div>
+                                <div>0.1%</div>
                             </small>
                         </div>
                     </section>
@@ -366,7 +366,7 @@
                             </div>
                             <small>
                                 <div>3.02 MB</div>
-                                <div>24.18%</div>
+                                <div>24.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -386,11 +386,11 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#4b0082" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                GDScript
+                                JavaScript
                             </div>
                             <small>
-                                <div>22.5 kB</div>
-                                <div>0.18%</div>
+                                <div>20.7 kB</div>
+                                <div>0.17%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -448,7 +448,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 May 2024, 11:16:52 (timezone Europe/Rome) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 4 May 2024, 17:16:02 (timezone Europe/Rome) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
