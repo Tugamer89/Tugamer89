@@ -13,9 +13,9 @@ jobs:
       - name: Setup dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y wget gnupg ca-certificates libgconf-2-4 curl unzip ruby-full git g++ cmake pkg-config libssl-dev python3 fonts-ipafont-gothic fonts-wqy-zenhei fonts-thai-tlwg fonts-kacst fonts-freefont-ttf libxss1 libx11-xcb1 libxtst6 lsb-release
+          sudo apt-get install -y wget gnupg ca-certificates curl unzip ruby-full git g++ cmake pkg-config libssl-dev python3 fonts-ipafont-gothic fonts-wqy-zenhei fonts-thai-tlwg fonts-kacst fonts-freefont-ttf libxss1 libx11-xcb1 libxtst6 lsb-release
 
-          # Install Google Chrome securely
+          # Install Google Chrome securely (Ubuntu 22.04+)
           wget -q https://dl-ssl.google.com/linux/linux_signing_key.pub -O /usr/share/keyrings/google-linux-keyring.gpg
           echo "deb [arch=amd64 signed-by=/usr/share/keyrings/google-linux-keyring.gpg] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
           sudo apt-get update
@@ -91,9 +91,9 @@ jobs:
       - name: Setup dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y wget gnupg ca-certificates libgconf-2-4 curl unzip ruby-full git g++ cmake pkg-config libssl-dev python3 fonts-ipafont-gothic fonts-wqy-zenhei fonts-thai-tlwg fonts-kacst fonts-freefont-ttf libxss1 libx11-xcb1 libxtst6 lsb-release
+          sudo apt-get install -y wget gnupg ca-certificates curl unzip ruby-full git g++ cmake pkg-config libssl-dev python3 fonts-ipafont-gothic fonts-wqy-zenhei fonts-thai-tlwg fonts-kacst fonts-freefont-ttf libxss1 libx11-xcb1 libxtst6 lsb-release
 
-          # Install Google Chrome securely
+          # Install Google Chrome securely (Ubuntu 22.04+)
           wget -q https://dl-ssl.google.com/linux/linux_signing_key.pub -O /usr/share/keyrings/google-linux-keyring.gpg
           echo "deb [arch=amd64 signed-by=/usr/share/keyrings/google-linux-keyring.gpg] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
           sudo apt-get update
