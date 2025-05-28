@@ -31,11 +31,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Install Node dependencies
-        run: |
-          npm install
-          npm run build
-
       - name: Personal metrics
         uses: JayantGoel001/metrics@master
         with:
@@ -108,11 +103,6 @@ jobs:
 
       - name: Checkout repository
         uses: actions/checkout@v3
-
-      - name: Install Node dependencies
-        run: |
-          npm install
-          npm run build
 
       - name: Detailed metrics
         uses: JayantGoel001/metrics@master
