@@ -6,7 +6,7 @@ on:
 jobs:
 
   github-metrics-personal:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
   
       - name: Personal metrics
@@ -59,7 +59,7 @@ jobs:
           plugin_sponsors_sections: goal, list, about
     
   github-metrics-detailed-personal:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:      
       - name: Personal metrics (detailed)
         uses: JayantGoel001/metrics@master
