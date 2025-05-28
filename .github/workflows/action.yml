@@ -1,14 +1,41 @@
 name: GitHub metrics
+
 on:
   schedule:
     - cron: "0 3,9,15,21 * * *"
   workflow_dispatch:
+
 jobs:
 
   github-metrics-personal:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
-  
+      - name: Setup dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget gnupg ca-certificates libgconf-2-4 curl unzip ruby-full git g++ cmake pkg-config libssl-dev python3 fonts-ipafont-gothic fonts-wqy-zenhei fonts-thai-tlwg fonts-kacst fonts-freefont-ttf libxss1 libx11-xcb1 libxtst6 lsb-release
+
+          # Install Google Chrome securely
+          wget -q https://dl-ssl.google.com/linux/linux_signing_key.pub -O /usr/share/keyrings/google-linux-keyring.gpg
+          echo "deb [arch=amd64 signed-by=/usr/share/keyrings/google-linux-keyring.gpg] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+
+          # Install Deno
+          curl -fsSL https://deno.land/x/install/install.sh | DENO_INSTALL=/usr/local sh
+          export PATH="/usr/local/bin:$PATH"
+
+          # Install Ruby gem 'licensed'
+          sudo gem install licensed
+
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install Node dependencies
+        run: |
+          npm ci
+          npm run build
+
       - name: Personal metrics
         uses: JayantGoel001/metrics@master
         with:
@@ -48,20 +75,46 @@ jobs:
           plugin_reactions_days: 14
           plugin_reactions_details: percentage
           plugin_achievements: yes
-          plugin_achievements_threshold: D       
-          plugin_achievements_secrets: yes   
+          plugin_achievements_threshold: D
+          plugin_achievements_secrets: yes
           plugin_achievements_limit: 0
-          plugin_achievements_display: compact   
+          plugin_achievements_display: compact
           plugin_notable: yes
           plugin_tweets_attachments: yes
           plugin_fortune: yes
           plugin_sponsors: yes
           plugin_sponsors_sections: goal, list, about
-    
+
   github-metrics-detailed-personal:
-    runs-on: ubuntu-20.04
-    steps:      
-      - name: Personal metrics (detailed)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget gnupg ca-certificates libgconf-2-4 curl unzip ruby-full git g++ cmake pkg-config libssl-dev python3 fonts-ipafont-gothic fonts-wqy-zenhei fonts-thai-tlwg fonts-kacst fonts-freefont-ttf libxss1 libx11-xcb1 libxtst6 lsb-release
+
+          # Install Google Chrome securely
+          wget -q https://dl-ssl.google.com/linux/linux_signing_key.pub -O /usr/share/keyrings/google-linux-keyring.gpg
+          echo "deb [arch=amd64 signed-by=/usr/share/keyrings/google-linux-keyring.gpg] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+
+          # Install Deno
+          curl -fsSL https://deno.land/x/install/install.sh | DENO_INSTALL=/usr/local sh
+          export PATH="/usr/local/bin:$PATH"
+
+          # Install Ruby gem 'licensed'
+          sudo gem install licensed
+
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install Node dependencies
+        run: |
+          npm ci
+          npm run build
+
+      - name: Detailed metrics
         uses: JayantGoel001/metrics@master
         with:
           filename: metrics.detailed.svg
@@ -85,7 +138,7 @@ jobs:
           plugin_posts_covers: yes
           plugin_posts_user: Tugamer89
           config_timezone: Europe/Rome
-          plugin_languages_colors : "rainbow"
+          plugin_languages_colors: "rainbow"
           plugin_languages_details: bytes-size, percentage
           plugin_leetcode: no
           plugin_leetcode_sections: solved, skills, recent
