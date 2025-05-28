@@ -33,7 +33,7 @@ jobs:
 
       - name: Install Node dependencies
         run: |
-          npm ci
+          npm install
           npm run build
 
       - name: Personal metrics
@@ -111,7 +111,7 @@ jobs:
 
       - name: Install Node dependencies
         run: |
-          npm ci
+          npm install
           npm run build
 
       - name: Detailed metrics
