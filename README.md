@@ -133,15 +133,13 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-543%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 119.5 kB Used in GitHub's Storage 
- > 
-> 🏆 769 Contributions in the Year 2025
+> 📦 119.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -154,7 +152,7 @@
 ```text
 🌞 Morning                1848 commits        █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
 🌆 Daytime                2750 commits        ███████░░░░░░░░░░░░░░░░░░   27.87 % 
-🌃 Evening                3342 commits        ████████░░░░░░░░░░░░░░░░░   33.87 % 
+🌃 Evening                3343 commits        ████████░░░░░░░░░░░░░░░░░   33.88 % 
 🌙 Night                  1927 commits        █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -165,7 +163,7 @@ Tuesday                  1329 commits        ███░░░░░░░░�
 Wednesday                1803 commits        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
 Thursday                 1170 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
 Friday                   1484 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Saturday                 1126 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Saturday                 1127 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
 Sunday                   1319 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
 ```
 
@@ -176,16 +174,16 @@ Sunday                   1319 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+SQL                      59 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  59 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          59 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  59 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -201,7 +199,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/07/2025 18:32:54 UTC
+ Last Updated on 06/07/2025 02:07:21 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
