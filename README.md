@@ -139,9 +139,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 130.7 kB Used in GitHub's Storage 
+> 📦 130.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,171 Contributions in the Year 2025
+> 🏆 1,172 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -149,6 +149,45 @@
  > 
 > 🔑 14 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1941 commits        █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+🌆 Daytime                2891 commits        ███████░░░░░░░░░░░░░░░░░░   27.73 % 
+🌃 Evening                3536 commits        ████████░░░░░░░░░░░░░░░░░   33.92 % 
+🌙 Night                  2056 commits        █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   1721 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Tuesday                  1397 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Wednesday                1897 commits        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+Thursday                 1243 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Friday                   1576 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Saturday                 1195 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Sunday                   1395 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -162,7 +201,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2025 01:55:02 UTC
+ Last Updated on 28/09/2025 06:34:39 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
