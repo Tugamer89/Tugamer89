@@ -296,14 +296,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="315.8010523132642" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="315.8010523132642" y="0" width="109.40634070918503" height="8" fill="#ffa500"/>
-                    <rect mask="url(#languages-bar)" x="425.20739302244925" y="0" width="8.454208321980898" height="8" fill="#ffff00"/>
-                    <rect mask="url(#languages-bar)" x="433.66160134443015" y="0" width="7.376147697455884" height="8" fill="#008000"/>
-                    <rect mask="url(#languages-bar)" x="441.03774904188606" y="0" width="7.0220232745679425" height="8" fill="#0000ff"/>
-                    <rect mask="url(#languages-bar)" x="448.059772316454" y="0" width="5.459434982073314" height="8" fill="#4b0082"/>
-                    <rect mask="url(#languages-bar)" x="453.5192072985273" y="0" width="5.175786089371193" height="8" fill="#ee82ee"/>
-                    <rect mask="url(#languages-bar)" x="458.69499338789853" y="0" width="1.3050066121014638" height="8" fill="#162221"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="315.6960418548579" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="315.6960418548579" y="0" width="109.52292043748804" height="8" fill="#ffa500"/>
+                    <rect mask="url(#languages-bar)" x="425.218962292346" y="0" width="8.451397120799486" height="8" fill="#ffff00"/>
+                    <rect mask="url(#languages-bar)" x="433.6703594131455" y="0" width="7.373694973991826" height="8" fill="#008000"/>
+                    <rect mask="url(#languages-bar)" x="441.0440543871373" y="0" width="7.019688304884969" height="8" fill="#0000ff"/>
+                    <rect mask="url(#languages-bar)" x="448.0637426920223" y="0" width="5.457619605696613" height="8" fill="#4b0082"/>
+                    <rect mask="url(#languages-bar)" x="453.5213622977189" y="0" width="5.174065032187004" height="8" fill="#ee82ee"/>
+                    <rect mask="url(#languages-bar)" x="458.6954273299059" y="0" width="1.3045726700941265" height="8" fill="#162221"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -316,7 +316,7 @@
                             </div>
                             <small>
                                 <div>9.40 MB</div>
-                                <div>68.65%</div>
+                                <div>68.63%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -352,7 +352,7 @@
                             </div>
                             <small>
                                 <div>154 kB</div>
-                                <div>1.13%</div>
+                                <div>1.12%</div>
                             </small>
                         </div>
                     </section>
@@ -366,7 +366,7 @@
                             </div>
                             <small>
                                 <div>3.26 MB</div>
-                                <div>23.78%</div>
+                                <div>23.81%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -448,7 +448,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Mar 2026, 11:14:48 (timezone Europe/Rome) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 17 Mar 2026, 17:15:00 (timezone Europe/Rome) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
