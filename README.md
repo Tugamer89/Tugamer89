@@ -61,6 +61,82 @@
     <td align="center" style="border: none; vertical-align: top;">
       <h4>⏰ WakaTime Coding Activity</h4>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-745%20hrs%2028%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.92%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 198.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,610 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 17 Public Repositories 
+ > 
+> 🔑 20 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2078 commits        █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+🌆 Daytime                2618 commits        ███████░░░░░░░░░░░░░░░░░░   27.58 % 
+🌃 Evening                2753 commits        ███████░░░░░░░░░░░░░░░░░░   29.00 % 
+🌙 Night                  2043 commits        █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1442 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Tuesday                  1286 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Wednesday                1419 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Thursday                 1359 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Friday                   1431 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Saturday                 1227 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Sunday                   1328 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+C++                      2 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   35.35 % 
+Java                     1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
+YAML                     1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+XML                      58 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 49 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+autogex                  4 hrs 5 mins        ███████████████░░░░░░░░░░   60.01 % 
+FCG                      2 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   39.09 % 
+PCAD                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+sfml-src                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+
+💻 Operating System: 
+WSL                      6 hrs 49 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in C++** 
+
+```text
+C++                      15 repos            ███████████░░░░░░░░░░░░░░   45.45 % 
+Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+C                        4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+```
+
+
+
+
+ Last Updated on 20/03/2026 15:58:38 UTC
 <!--END_SECTION:waka-->
     </td>
     <td align="center" style="border: none; vertical-align: top;">
