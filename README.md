@@ -56,10 +56,10 @@
 
 <br>
 
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" style="border: none; vertical-align: top;">
-      <h4>⏰ WakaTime Coding Activity</h4>
+<h4 align="center">⏰ WakaTime Coding Activity</h4>
+
+<img align="right" height="300" src="https://wakatime.com/share/@Tugamer89/b67c83a9-a9e8-4538-99b6-9009c4c54e12.svg" alt="WakaTime Chart" />
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-745%20hrs%2028%20mins-blue?style=flat)
 
@@ -138,12 +138,6 @@ PHP                      2 repos             ██░░░░░░░░░�
 
  Last Updated on 20/03/2026 15:58:38 UTC
 <!--END_SECTION:waka-->
-    </td>
-    <td align="center" style="border: none; vertical-align: top;">
-      <img height="300px" src="https://wakatime.com/share/@Tugamer89/b67c83a9-a9e8-4538-99b6-9009c4c54e12.svg" alt="WakaTime Chart">
-    </td>
-  </tr>
-</table>
 
 ---
 
