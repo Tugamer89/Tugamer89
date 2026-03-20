@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v6
 
       - name: Personal metrics
-        uses: lowlighter/metrics@v3.34
+        uses: lowlighter/metrics@v4
         with:
           filename: metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -39,7 +39,7 @@ jobs:
           config_timezone: Europe/Rome
 
       - name: Detailed metrics
-        uses: lowlighter/metrics@v3.34
+        uses: lowlighter/metrics@v4
         with:
           filename: metrics.detailed.svg
           token: ${{ secrets.GITHUB_TOKEN }}
