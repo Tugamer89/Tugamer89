@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,nodejs,php,java,mysql,arduino,latex,regex,matlab,bash,git,vscode,linux&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,nodejs,php,java,mysql,arduino,latex,regex,matlab,bash,git,vscode,linux&theme=dark&perline=6" />
   </a>
 </p>
 
@@ -60,8 +60,8 @@
   <tr>
     <td align="center" style="border: none; vertical-align: top;">
       <h4>⏰ WakaTime Coding Activity</h4>
-      <!--START_SECTION:waka-->
-      <!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
     </td>
     <td align="center" style="border: none; vertical-align: top;">
       <img height="300px" src="https://wakatime.com/share/@Tugamer89/b67c83a9-a9e8-4538-99b6-9009c4c54e12.svg" alt="WakaTime Chart">
