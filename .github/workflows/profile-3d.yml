@@ -2,25 +2,25 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 2,8,14,20 * * *"
+    - cron: "10 2,8,14,20 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@0.4.0
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@v0.9.2
         env:
-          GITHUB_TOKEN: ${{ secrets.GH2_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          MAX_REPOS: 250
       - name: Commit & Push
         run: |
-          git config user.name ${{ github.repository_owner }}
-          git config user.email 61603718+Tugamer89@users.noreply.github.com
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A .
-          git commit -m "GitHub 3D Profile"
+          git commit -m "Generated GitHub 3D Profile" || exit 0
           git push
-          

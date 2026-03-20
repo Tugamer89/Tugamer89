@@ -2,25 +2,31 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 1,7,13,19 * * *"
+    - cron: "45 1,7,13,19 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: Platane/snk@main
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: Tugamer89
-          outputs: dist/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: main
           build_dir: dist
-          keep_history: true
+          keep_history: false
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
