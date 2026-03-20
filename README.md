@@ -1,7 +1,5 @@
 <h1 align="center">
-  <img src="GIF/Earth.gif" width="28px">
   Hi there, I'm Tugamer89!
-  <img src="GIF/Hi.gif" width="40px" />
 </h1>
 
 <h3 align="center">A student passionate about Computer Science 💻, Programming 👨‍💻, and Cybersecurity 🔒</h3>
@@ -18,9 +16,6 @@
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td align="center" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tugamer89&theme=dark&hide_border=true&border_radius=10" alt="Streak Stats"/>
-    </td>
-    <td align="center" style="border: none;">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=94b4a4&center=true&vCenter=true&multiline=true&random=false&width=400&height=180&lines=🎓+Computer+Science+Student;🤖+Learning+RISC-V;🤝+Open-Source+Enthusiast;💬+Ask+me+about+C++;💡+Anything+is+possible!" alt="Typing SVG"/>
     </td>
   </tr>
@@ -29,19 +24,9 @@
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <code><img height="45" src="https://github.com/Tugamer89/Tugamer89/blob/main/images/python.png" title="Python"></code>
-  <code><img height="45" src="https://github.com/Tugamer89/Tugamer89/blob/main/images/cpp.png" title="C++"></code>
-  <code><img height="45" src="https://github.com/Tugamer89/Tugamer89/blob/main/images/c.png" title="C"></code>
-  <code><img height="45" src="https://github.com/Tugamer89/Tugamer89/blob/main/images/html5.png" title="HTML5"></code>
-  <code><img height="45" src="https://github.com/Tugamer89/Tugamer89/blob/main/images/css.png" title="CSS3"></code>
-  <code><img height="45" src="https://github.com/Tugamer89/Tugamer89/blob/main/images/js.png" title="JavaScript"></code>
-  <code><img height="45" src="https://github.com/Tugamer89/Tugamer89/blob/main/images/nodejs.png" title="Node.js"></code>
-  <code><img height="45" src="https://github.com/Tugamer89/Tugamer89/blob/main/images/php.png" title="PHP"></code>
-  &nbsp;|&nbsp;
-  <code><img height="45" src="https://github.com/Tugamer89/Tugamer89/blob/main/images/git.png" title="Git"></code>
-  <code><img height="45" src="https://github.com/Tugamer89/Tugamer89/blob/main/images/vscode.png" title="VS Code"></code>
-  <code><img height="45" src="https://github.com/Tugamer89/Tugamer89/blob/main/images/kali.png" title="Kali Linux"></code>
-  <code><img height="45" src="https://github.com/Tugamer89/Tugamer89/blob/main/images/ubuntu.png" title="Ubuntu"></code>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,nodejs,php,java,fs,sql,matlab,assembly,bash,git,vscode,kali,ubuntu&theme=dark&perline=9" />
+  </a>
 </p>
 
 ---
@@ -60,6 +45,13 @@
 <p align="center">
   <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tugamer89&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" alt="Activity Graph"/>
 </p>
+
+<p align="center">
+  <img height="160" src="images/left.webp" alt="Left Wing">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tugamer89&theme=dark&hide_border=true&border_radius=10" alt="Streak Stats"/>
+  <img height="160" src="images/right.webp" alt="Right Wing">
+</p>
+
 </details>
 
 <br>
@@ -68,7 +60,9 @@
   <tr>
     <td align="center" style="border: none; vertical-align: top;">
       <h4>⏰ WakaTime Coding Activity</h4>
-      </td>
+      <!--START_SECTION:waka-->
+      <!--END_SECTION:waka-->
+    </td>
     <td align="center" style="border: none; vertical-align: top;">
       <img height="300px" src="https://wakatime.com/share/@Tugamer89/b67c83a9-a9e8-4538-99b6-9009c4c54e12.svg" alt="WakaTime Chart">
     </td>

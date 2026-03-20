@@ -13,6 +13,7 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v6
+      
       - uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -23,10 +24,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      - uses: crazy-max/ghaction-github-pages@v5
-        with:
-          target_branch: main
-          build_dir: dist
-          keep_history: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/
+          git commit -m "Generated GitHub Snake" || exit 0
+          git push

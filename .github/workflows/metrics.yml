@@ -18,7 +18,7 @@ jobs:
       - name: Personal metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
+          filename: dist/metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           base: "header, activity, community, repositories"
           plugin_isocalendar: yes
@@ -41,7 +41,7 @@ jobs:
       - name: Detailed metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.detailed.svg
+          filename: dist/metrics.detailed.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           base: "metadata"
           plugin_pagespeed: yes
