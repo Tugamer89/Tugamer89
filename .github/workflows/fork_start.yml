@@ -16,5 +16,5 @@ jobs:
       - name: This repo has x stars y forks
         uses: ouuan/This-repo-has-x-stars-y-forks-action@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           template: "Tugamer89's profile with <starCount> stars ⭐ and <forkCount> forks 🎉"
