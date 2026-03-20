@@ -16,7 +16,7 @@
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td align="center" style="border: none;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=94b4a4&center=true&vCenter=true&multiline=true&random=false&width=400&height=180&lines=🎓+Computer+Science+Student;🤖+Learning+Automatas;🤝+Open-Source+Enthusiast;💬+Ask+me+about+C%2B%2B;💡+Anything+is+possible!" alt="Typing SVG"/>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1500&pause=500&color=94b4a4&center=true&vCenter=true&multiline=true&random=false&width=400&lines=🎓+Computer+Science+Student;🤖+Learning+Computer+Vision;🤝+Open-Source+Enthusiast;💬+Ask+me+about+C%2B%2B;💡+Anything+is+possible!" alt="Typing SVG"/>
     </td>
   </tr>
 </table>
