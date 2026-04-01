@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tugamer89.github.io/autogex/sitemap.xml
