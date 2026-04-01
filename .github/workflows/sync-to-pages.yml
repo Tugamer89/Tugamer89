@@ -22,6 +22,7 @@ jobs:
           cp robots.txt web_deploy/
           cp README.md web_deploy/index.md
           cp -r assets web_deploy/
+          cp -r _includes web_deploy/
           
           REPO_RAW_URL="https://raw.githubusercontent.com/tugamer89/tugamer89/main"
           
