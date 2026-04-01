@@ -34,7 +34,7 @@
 ### 📊 GitHub & WakaTime Stats
 
 <details open>
-<summary><b>📈 Clicca per vedere le mie metriche GitHub</b></summary>
+<summary><b>📈 Click to view my GitHub metrics</b></summary>
 <br/>
 
 <p align="center">
