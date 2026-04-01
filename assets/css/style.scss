@@ -5,26 +5,10 @@
 
 
 .wrapper {
-  max-width: 1200px !important; 
-  width: 90% !important;
-  margin: 0 auto !important;
-  float: none !important;
-  padding: 50px !important;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 section {
-  float: none !important;
-  width: 100% !important;
-  margin: 0 !important;
-  padding: 0 !important;
-}
-
-table {
-  display: table !important;
-  width: 100% !important;
-}
-
-pre, code {
-  white-space: pre !important;
-  word-wrap: normal !important;
+  width: 825px !important;
 }
