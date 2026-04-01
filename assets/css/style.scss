@@ -8,12 +8,16 @@
 }
 
 .wrapper {
-  max-width: 95% !important;
-  width: 95% !important;
+  max-width: 1100px !important;
   margin: 0 auto !important;
+  padding: 0 40px !important;
 }
 
-pre {
+section {
+  width: 100% !important;
+}
+
+pre, code {
   white-space: pre !important;
   word-wrap: normal !important;
 }
