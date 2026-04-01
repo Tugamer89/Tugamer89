@@ -3,17 +3,24 @@
 
 @import "{{ site.theme }}";
 
-#header { 
-  display: none !important; 
-}
 
 .wrapper {
-  max-width: 1100px !important;
+  max-width: 1200px !important; 
+  width: 90% !important;
   margin: 0 auto !important;
-  padding: 0 40px !important;
+  float: none !important;
+  padding: 50px !important;
 }
 
 section {
+  float: none !important;
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+table {
+  display: table !important;
   width: 100% !important;
 }
 
