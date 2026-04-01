@@ -1,0 +1,16 @@
+@import "{{ site.theme }}";
+
+#header { 
+  display: none !important; 
+}
+
+.wrapper {
+  max-width: 95% !important;
+  width: 95% !important;
+  margin: 0 auto !important;
+}
+
+pre {
+  white-space: pre !important;
+  word-wrap: normal !important;
+}
