@@ -152,7 +152,7 @@ PHP                      2 repos             ██░░░░░░░░░�
 
 ---
 
-<h4 align="center">
+<div align="center">
   
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
@@ -176,7 +176,7 @@ PHP                      2 repos             ██░░░░░░░░░�
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
 
-</h4>
+</div>
 
 <div align="center">
   <h3>Show some ❤️ by starring some of the repositories!</h3>
