@@ -67,7 +67,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 450.5 kB Used in GitHub's Storage 
+> 📦 450.6 kB Used in GitHub's Storage 
  > 
 > 🏆 2,930 Contributions in the Year 2026
  > 
@@ -104,16 +104,16 @@ Sunday                   3067 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Gosu                     25 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  25 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+thokk                    25 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  25 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -129,7 +129,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/07/2026 20:26:29 UTC
+ Last Updated on 10/07/2026 04:39:14 UTC
 <!--END_SECTION:waka-->
 
 ---
