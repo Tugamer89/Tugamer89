@@ -67,7 +67,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 452.0 kB Used in GitHub's Storage 
+> 📦 451.6 kB Used in GitHub's Storage 
  > 
 > 🏆 3,049 Contributions in the Year 2026
  > 
@@ -104,22 +104,22 @@ Sunday                   1665 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   4 hrs 45 mins       ███████████░░░░░░░░░░░░░░   43.15 % 
-TypeScript               2 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
-YAML                     1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-Other                    49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-Text                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Python                   4 hrs 42 mins       ██████████████░░░░░░░░░░░   55.95 % 
+TypeScript               2 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   27.64 % 
+YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 1 min        █████████████████████████   100.00 % 
+VS Code                  8 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AC-Virtual-Engineer      10 hrs 51 mins      █████████████████████████   98.53 % 
-Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+AC-Virtual-Engineer      8 hrs 14 mins       █████████████████████████   98.07 % 
+Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 💻 Operating System: 
-WSL                      10 hrs 51 mins      █████████████████████████   98.53 % 
-Windows                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+WSL                      8 hrs 14 mins       █████████████████████████   98.07 % 
+Windows                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 ```
 
 **I Mostly Code in C++** 
@@ -135,7 +135,7 @@ SCSS                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 03:53:32 UTC
+ Last Updated on 25/07/2026 08:36:08 UTC
 <!--END_SECTION:waka-->
 
 ---
