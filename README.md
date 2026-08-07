@@ -79,6 +79,51 @@
  > 
 > 🔑 18 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2200 commits        █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+🌆 Daytime                3232 commits        ███████░░░░░░░░░░░░░░░░░░   29.48 % 
+🌃 Evening                3220 commits        ███████░░░░░░░░░░░░░░░░░░   29.37 % 
+🌙 Night                  2313 commits        █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   1803 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Tuesday                  1528 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Wednesday                1516 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Thursday                 1506 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Friday                   1674 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Saturday                 1366 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Sunday                   1572 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -92,7 +137,7 @@ SCSS                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 00:29:08 UTC
+ Last Updated on 07/08/2026 03:33:25 UTC
 <!--END_SECTION:waka-->
 
 ---
