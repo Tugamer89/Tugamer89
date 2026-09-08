@@ -61,15 +61,15 @@
 <img align="right" height="300" src="https://wakatime.com/share/@Tugamer89/b67c83a9-a9e8-4538-99b6-9009c4c54e12.svg" alt="WakaTime Chart" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-976%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-976%20hrs%2051%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.75%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.76%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 453.8 kB Used in GitHub's Storage 
+> 📦 453.9 kB Used in GitHub's Storage 
  > 
 > 🏆 3,228 Contributions in the Year 2026
  > 
@@ -82,21 +82,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2141 commits        █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-🌆 Daytime                3026 commits        ███████░░░░░░░░░░░░░░░░░░   29.08 % 
-🌃 Evening                3072 commits        ███████░░░░░░░░░░░░░░░░░░   29.53 % 
-🌙 Night                  2165 commits        █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
+🌞 Morning                2142 commits        █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+🌆 Daytime                3054 commits        ███████░░░░░░░░░░░░░░░░░░   29.07 % 
+🌃 Evening                3105 commits        ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+🌙 Night                  2206 commits        █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1684 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Tuesday                  1463 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Wednesday                1449 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Thursday                 1420 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Friday                   1525 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Saturday                 1293 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Sunday                   1570 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Monday                   1703 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
+Tuesday                  1465 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Wednesday                1450 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Thursday                 1430 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Friday                   1554 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Saturday                 1301 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Sunday                   1604 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
 ```
 
 
@@ -106,23 +106,23 @@ Sunday                   1570 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-C++                      1 hr 14 mins        ███████████████████░░░░░░   74.82 % 
-Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-CMake                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+C++                      1 hr 22 mins        ███████████████████░░░░░░   76.46 % 
+Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+CMake                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🔥 Editors: 
-VS Code                  1 hr 40 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 47 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ProgettoFCG              1 hr 29 mins        ██████████████████████░░░   89.00 % 
-Tu-Maze                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-quiz-forge               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-AC-Virtual-Engineer      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+ProgettoFCG              1 hr 32 mins        █████████████████████░░░░   85.90 % 
+Tu-Maze                  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+quiz-forge               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+AC-Virtual-Engineer      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 💻 Operating System: 
-WSL                      1 hr 40 mins        █████████████████████████   100.00 % 
+WSL                      1 hr 47 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -144,7 +144,7 @@ SCSS                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 21:48:12 UTC
+ Last Updated on 08/09/2026 05:06:15 UTC
 <!--END_SECTION:waka-->
 
 ---
