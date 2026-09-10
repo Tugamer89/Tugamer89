@@ -65,11 +65,11 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.81%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.82%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 454.2 kB Used in GitHub's Storage 
+> 📦 454.3 kB Used in GitHub's Storage 
  > 
 > 🏆 3,229 Contributions in the Year 2026
  > 
@@ -82,21 +82,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2168 commits        █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-🌆 Daytime                3202 commits        ███████░░░░░░░░░░░░░░░░░░   29.54 % 
-🌃 Evening                3267 commits        ████████░░░░░░░░░░░░░░░░░   30.14 % 
-🌙 Night                  2203 commits        █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+🌞 Morning                2169 commits        █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+🌆 Daytime                3230 commits        ███████░░░░░░░░░░░░░░░░░░   29.52 % 
+🌃 Evening                3300 commits        ████████░░░░░░░░░░░░░░░░░   30.16 % 
+🌙 Night                  2244 commits        █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1757 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Tuesday                  1535 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Wednesday                1516 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Thursday                 1481 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Friday                   1545 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Saturday                 1334 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Sunday                   1672 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Monday                   1776 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Tuesday                  1537 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Wednesday                1517 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Thursday                 1491 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Friday                   1574 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Saturday                 1342 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Sunday                   1706 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
 ```
 
 
@@ -106,23 +106,22 @@ Sunday                   1672 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-C++                      1 hr 22 mins        ███████████████████░░░░░░   76.46 % 
-Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-CMake                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+C++                      30 mins             ████████████████░░░░░░░░░   62.01 % 
+Markdown                 12 mins             ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+YAML                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  1 hr 47 mins        █████████████████████████   100.00 % 
+VS Code                  48 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ProgettoFCG              1 hr 32 mins        █████████████████████░░░░   85.90 % 
-Tu-Maze                  8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-quiz-forge               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-AC-Virtual-Engineer      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+ProgettoFCG              36 mins             ███████████████████░░░░░░   74.28 % 
+Tu-Maze                  8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+quiz-forge               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
 
 💻 Operating System: 
-WSL                      1 hr 47 mins        █████████████████████████   100.00 % 
+WSL                      48 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -144,7 +143,7 @@ SCSS                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2026 21:10:26 UTC
+ Last Updated on 10/09/2026 05:09:02 UTC
 <!--END_SECTION:waka-->
 
 ---
