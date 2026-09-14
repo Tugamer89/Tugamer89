@@ -106,22 +106,18 @@ Sunday                   1644 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-C++                      30 mins             ████████████████░░░░░░░░░   62.01 % 
-Markdown                 12 mins             ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
-YAML                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+C++                      7 mins              █████████████████████████   99.46 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-VS Code                  48 mins             █████████████████████████   100.00 % 
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ProgettoFCG              36 mins             ███████████████████░░░░░░   74.28 % 
-Tu-Maze                  8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-quiz-forge               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Tu-Maze                  4 mins              ██████████████░░░░░░░░░░░   57.60 % 
+ProgettoFCG              3 mins              ███████████░░░░░░░░░░░░░░   42.40 % 
 
 💻 Operating System: 
-WSL                      48 mins             █████████████████████████   100.00 % 
+WSL                      7 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -143,7 +139,7 @@ SCSS                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 21:06:34 UTC
+ Last Updated on 14/09/2026 05:22:32 UTC
 <!--END_SECTION:waka-->
 
 ---
