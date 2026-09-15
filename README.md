@@ -69,7 +69,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 454.9 kB Used in GitHub's Storage 
+> 📦 455.0 kB Used in GitHub's Storage 
  > 
 > 🏆 3,230 Contributions in the Year 2026
  > 
@@ -106,18 +106,16 @@ Sunday                   1716 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-C++                      7 mins              █████████████████████████   99.46 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Tu-Maze                  4 mins              ██████████████░░░░░░░░░░░   57.60 % 
-ProgettoFCG              3 mins              ███████████░░░░░░░░░░░░░░   42.40 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -139,7 +137,7 @@ SCSS                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 22:03:24 UTC
+ Last Updated on 15/09/2026 05:14:13 UTC
 <!--END_SECTION:waka-->
 
 ---
