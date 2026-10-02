@@ -61,7 +61,7 @@
 <img align="right" height="300" src="https://wakatime.com/share/@Tugamer89/b67c83a9-a9e8-4538-99b6-9009c4c54e12.svg" alt="WakaTime Chart" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-979%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-981%20hrs%2029%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20mins-blue?style=flat)
 
@@ -69,7 +69,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 457.0 kB Used in GitHub's Storage 
+> 📦 456.5 kB Used in GitHub's Storage 
  > 
 > 🏆 3,230 Contributions in the Year 2026
  > 
@@ -106,18 +106,22 @@ Sunday                   1750 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-C                        1 hr 15 mins        ██████████████░░░░░░░░░░░   55.17 % 
-Python                   54 mins             ██████████░░░░░░░░░░░░░░░   39.48 % 
-Makefile                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+C                        1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   38.73 % 
+Agda                     1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+Python                   1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Makefile                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 16 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tests                    2 hrs 16 mins       █████████████████████████   100.00 % 
+tests                    4 hrs 25 mins       ████████████████████████░   95.52 % 
+Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 💻 Operating System: 
-WSL                      2 hrs 16 mins       █████████████████████████   100.00 % 
+WSL                      4 hrs 25 mins       ████████████████████████░   95.52 % 
+Windows                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -139,7 +143,7 @@ SCSS                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 22:56:34 UTC
+ Last Updated on 02/10/2026 06:04:23 UTC
 <!--END_SECTION:waka-->
 
 ---
