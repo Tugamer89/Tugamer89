@@ -61,7 +61,7 @@
 <img align="right" height="300" src="https://wakatime.com/share/@Tugamer89/b67c83a9-a9e8-4538-99b6-9009c4c54e12.svg" alt="WakaTime Chart" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-981%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-982%20hrs%2026%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20mins-blue?style=flat)
 
@@ -69,7 +69,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 456.8 kB Used in GitHub's Storage 
+> 📦 456.9 kB Used in GitHub's Storage 
  > 
 > 🏆 3,230 Contributions in the Year 2026
  > 
@@ -106,22 +106,22 @@ Sunday                   1750 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-C                        1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   38.73 % 
-Agda                     1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   28.76 % 
-Python                   1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-Makefile                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+C                        2 hrs 44 mins       ████████████░░░░░░░░░░░░░   48.96 % 
+Agda                     1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+Python                   1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Makefile                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 37 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tests                    4 hrs 25 mins       ████████████████████████░   95.52 % 
-Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+tests                    5 hrs 22 mins       ████████████████████████░   96.29 % 
+Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 💻 Operating System: 
-WSL                      4 hrs 25 mins       ████████████████████████░   95.52 % 
-Windows                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+WSL                      5 hrs 22 mins       ████████████████████████░   96.29 % 
+Windows                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -143,7 +143,7 @@ SCSS                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 21:51:22 UTC
+ Last Updated on 05/10/2026 06:09:22 UTC
 <!--END_SECTION:waka-->
 
 ---
