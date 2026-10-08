@@ -61,7 +61,7 @@
 <img align="right" height="300" src="https://wakatime.com/share/@Tugamer89/b67c83a9-a9e8-4538-99b6-9009c4c54e12.svg" alt="WakaTime Chart" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-984%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-986%20hrs-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20mins-blue?style=flat)
 
@@ -69,7 +69,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 457.0 kB Used in GitHub's Storage 
+> 📦 457.1 kB Used in GitHub's Storage 
  > 
 > 🏆 3,233 Contributions in the Year 2026
  > 
@@ -106,22 +106,23 @@ Sunday                   1750 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Agda                     3 hrs 3 mins        ██████████████░░░░░░░░░░░   55.48 % 
-C                        1 hr 57 mins        █████████░░░░░░░░░░░░░░░░   35.48 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Agda                     4 hrs 20 mins       ████████████████░░░░░░░░░   63.24 % 
+C                        1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   28.60 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 30 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tests                    5 hrs 17 mins       ████████████████████████░   96.23 % 
-Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+tests                    6 hrs 25 mins       ███████████████████████░░   93.66 % 
+FM                       13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 
 💻 Operating System: 
-WSL                      5 hrs 17 mins       ████████████████████████░   96.23 % 
-Windows                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+WSL                      6 hrs 39 mins       ████████████████████████░   96.98 % 
+Windows                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -143,7 +144,7 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 23:21:17 UTC
+ Last Updated on 08/10/2026 06:34:18 UTC
 <!--END_SECTION:waka-->
 
 ---
