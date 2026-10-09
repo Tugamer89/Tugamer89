@@ -69,7 +69,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 457.0 kB Used in GitHub's Storage 
+> 📦 457.1 kB Used in GitHub's Storage 
  > 
 > 🏆 3,235 Contributions in the Year 2026
  > 
@@ -106,23 +106,21 @@ Sunday                   1712 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Agda                     4 hrs 20 mins       ████████████████░░░░░░░░░   63.24 % 
-C                        1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   28.60 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Agda                     4 hrs 28 mins       ██████████████████░░░░░░░   71.65 % 
+C                        1 hr 41 mins        ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 52 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tests                    6 hrs 25 mins       ███████████████████████░░   93.66 % 
-FM                       13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Unknown Project          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+tests                    4 hrs 33 mins       ██████████████████░░░░░░░   72.93 % 
+FM                       1 hr 41 mins        ███████░░░░░░░░░░░░░░░░░░   27.07 % 
 
 💻 Operating System: 
-WSL                      6 hrs 39 mins       ████████████████████████░   96.98 % 
-Windows                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+WSL                      6 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -144,7 +142,7 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2026 23:36:50 UTC
+ Last Updated on 09/10/2026 06:35:18 UTC
 <!--END_SECTION:waka-->
 
 ---
