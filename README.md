@@ -106,21 +106,21 @@ Sunday                   1750 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Agda                     4 hrs 28 mins       ██████████████████░░░░░░░   71.65 % 
-C                        1 hr 41 mins        ███████░░░░░░░░░░░░░░░░░░   27.12 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Agda                     4 hrs 28 mins       ██████████████████████░░░   88.17 % 
+C                        32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 14 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 4 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tests                    4 hrs 33 mins       ██████████████████░░░░░░░   72.93 % 
-FM                       1 hr 41 mins        ███████░░░░░░░░░░░░░░░░░░   27.07 % 
+tests                    3 hrs 23 mins       █████████████████░░░░░░░░   66.68 % 
+FM                       1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   33.32 % 
 
 💻 Operating System: 
-WSL                      6 hrs 14 mins       █████████████████████████   100.00 % 
+WSL                      5 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -142,7 +142,7 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 22:22:37 UTC
+ Last Updated on 12/10/2026 06:24:25 UTC
 <!--END_SECTION:waka-->
 
 ---
