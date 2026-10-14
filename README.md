@@ -106,22 +106,22 @@ Sunday                   1682 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Agda                     8 hrs 43 mins       ████████████████████████░   94.01 % 
-C                        10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Agda                     7 hrs               ████████████████████████░   94.73 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 17 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-FM                       5 hrs 59 mins       ████████████████░░░░░░░░░   64.51 % 
-tests                    3 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   32.56 % 
-AC-Virtual-Engineer      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+FM                       5 hrs 59 mins       ████████████████████░░░░░   80.99 % 
+tests                    1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+AC-Virtual-Engineer      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
 💻 Operating System: 
-WSL                      9 hrs 17 mins       █████████████████████████   100.00 % 
+WSL                      7 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -143,7 +143,7 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 23:06:57 UTC
+ Last Updated on 14/10/2026 05:17:48 UTC
 <!--END_SECTION:waka-->
 
 ---
