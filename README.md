@@ -61,7 +61,7 @@
 <img align="right" height="300" src="https://wakatime.com/share/@Tugamer89/b67c83a9-a9e8-4538-99b6-9009c4c54e12.svg" alt="WakaTime Chart" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-991%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-992%20hrs%2013%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20mins-blue?style=flat)
 
@@ -106,22 +106,21 @@ Sunday                   1712 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Agda                     7 hrs               ████████████████████████░   94.73 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Agda                     6 hrs 4 mins        ████████████████████████░   95.05 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 23 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 23 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-FM                       5 hrs 59 mins       ████████████████████░░░░░   80.99 % 
-tests                    1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-AC-Virtual-Engineer      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+FM                       6 hrs 7 mins        ████████████████████████░   95.75 % 
+AC-Virtual-Engineer      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 💻 Operating System: 
-WSL                      7 hrs 23 mins       █████████████████████████   100.00 % 
+WSL                      6 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -143,7 +142,7 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 21:58:44 UTC
+ Last Updated on 15/10/2026 05:06:19 UTC
 <!--END_SECTION:waka-->
 
 ---
