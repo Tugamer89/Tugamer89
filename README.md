@@ -61,7 +61,7 @@
 <img align="right" height="300" src="https://wakatime.com/share/@Tugamer89/b67c83a9-a9e8-4538-99b6-9009c4c54e12.svg" alt="WakaTime Chart" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-997%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C004%20hrs%2033%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20mins-blue?style=flat)
 
@@ -69,9 +69,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 455.8 kB Used in GitHub's Storage 
+> 📦 455.9 kB Used in GitHub's Storage 
  > 
-> 🏆 3,287 Contributions in the Year 2026
+> 🏆 3,292 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -82,21 +82,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2190 commits        █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-🌆 Daytime                3419 commits        ███████░░░░░░░░░░░░░░░░░░   29.90 % 
-🌃 Evening                3508 commits        ████████░░░░░░░░░░░░░░░░░   30.68 % 
-🌙 Night                  2316 commits        █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+🌞 Morning                2190 commits        █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+🌆 Daytime                3404 commits        ███████░░░░░░░░░░░░░░░░░░   29.88 % 
+🌃 Evening                3489 commits        ████████░░░░░░░░░░░░░░░░░   30.62 % 
+🌙 Night                  2310 commits        █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1889 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Tuesday                  1596 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Wednesday                1562 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Thursday                 1554 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Friday                   1612 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Saturday                 1376 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Sunday                   1844 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Monday                   1865 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Tuesday                  1595 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Wednesday                1562 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Thursday                 1554 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Friday                   1612 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Saturday                 1376 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Sunday                   1829 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
 ```
 
 
@@ -106,25 +106,25 @@ Sunday                   1844 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Agda                     4 hrs 41 mins       ███████████░░░░░░░░░░░░░░   44.61 % 
-YAML                     1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Python                   1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-C++                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Python                   3 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+C++                      3 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+YAML                     1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Makefile                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 29 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 51 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-FM                       4 hrs 43 mins       ███████████░░░░░░░░░░░░░░   45.05 % 
-r4-dev-dashboard         4 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   39.20 % 
-neural_network           51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-AC-Virtual-Engineer      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-Unknown Project          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+r4-dev-dashboard         10 hrs 21 mins      ████████████████████░░░░░   80.66 % 
+neural_network           51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+tests                    48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+FM                       25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Unknown Project          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 💻 Operating System: 
-WSL                      9 hrs 28 mins       ███████████████████████░░   90.28 % 
-Windows                  1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+WSL                      11 hrs 48 mins      ███████████████████████░░   91.92 % 
+Windows                  1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -146,7 +146,7 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 22:39:34 UTC
+ Last Updated on 20/10/2026 05:12:36 UTC
 <!--END_SECTION:waka-->
 
 ---
