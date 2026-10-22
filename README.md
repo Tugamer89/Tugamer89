@@ -61,7 +61,7 @@
 <img align="right" height="300" src="https://wakatime.com/share/@Tugamer89/b67c83a9-a9e8-4538-99b6-9009c4c54e12.svg" alt="WakaTime Chart" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C007%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C009%20hrs%2020%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20mins-blue?style=flat)
 
@@ -106,25 +106,25 @@ Sunday                   1791 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   5 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   34.21 % 
-C++                      3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
-YAML                     1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Agda                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Makefile                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Python                   5 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   31.64 % 
+C++                      3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+Agda                     2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+YAML                     1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Makefile                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 56 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 14 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-r4-dev-dashboard         11 hrs 45 mins      ██████████████████░░░░░░░   73.82 % 
-FM                       1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-neural_network           51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-DC                       49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-tests                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+r4-dev-dashboard         11 hrs 46 mins      █████████████████░░░░░░░░   68.33 % 
+FM                       2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+neural_network           51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+DC                       49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+tests                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
 
 💻 Operating System: 
-WSL                      14 hrs 53 mins      ███████████████████████░░   93.46 % 
-Windows                  1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+WSL                      16 hrs 11 mins      ███████████████████████░░   93.95 % 
+Windows                  1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -146,7 +146,7 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 22:00:07 UTC
+ Last Updated on 22/10/2026 05:17:12 UTC
 <!--END_SECTION:waka-->
 
 ---
