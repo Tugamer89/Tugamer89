@@ -69,7 +69,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 456.2 kB Used in GitHub's Storage 
+> 📦 456.3 kB Used in GitHub's Storage 
  > 
 > 🏆 3,304 Contributions in the Year 2026
  > 
@@ -106,25 +106,25 @@ Sunday                   1818 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   5 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   31.47 % 
-C++                      3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-Agda                     2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-YAML                     1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Makefile                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Python                   4 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+C++                      3 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+Agda                     2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+YAML                     1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Makefile                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 19 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 8 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-r4-dev-dashboard         11 hrs 46 mins      █████████████████░░░░░░░░   67.98 % 
-FM                       2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-neural_network           51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-DC                       49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-tests                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+r4-dev-dashboard         11 hrs 46 mins      ██████████████████░░░░░░░   72.97 % 
+FM                       2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+DC                       49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+tests                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Unknown Project          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 💻 Operating System: 
-WSL                      16 hrs 16 mins      ███████████████████████░░   93.98 % 
-Windows                  1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+WSL                      15 hrs 55 mins      █████████████████████████   98.64 % 
+Windows                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -146,7 +146,7 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 21:40:37 UTC
+ Last Updated on 24/10/2026 04:59:57 UTC
 <!--END_SECTION:waka-->
 
 ---
