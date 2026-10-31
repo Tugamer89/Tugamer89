@@ -61,7 +61,7 @@
 <img align="right" height="300" src="https://wakatime.com/share/@Tugamer89/b67c83a9-a9e8-4538-99b6-9009c4c54e12.svg" alt="WakaTime Chart" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C014%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C014%20hrs%2035%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20mins-blue?style=flat)
 
@@ -69,7 +69,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 457.5 kB Used in GitHub's Storage 
+> 📦 457.6 kB Used in GitHub's Storage 
  > 
 > 🏆 3,316 Contributions in the Year 2026
  > 
@@ -106,23 +106,25 @@ Sunday                   1863 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Agda                     1 hr 42 mins        █████████░░░░░░░░░░░░░░░░   34.64 % 
-Python                   1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   33.65 % 
-C                        1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
-CMake                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+Agda                     2 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   38.62 % 
+Python                   1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   31.36 % 
+C                        1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+CMake                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 55 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-FM                       1 hr 42 mins        █████████░░░░░░░░░░░░░░░░   34.64 % 
-DC                       1 hr 33 mins        ████████░░░░░░░░░░░░░░░░░   31.58 % 
-HPC                      1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   28.05 % 
-tests                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+FM                       2 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   38.98 % 
+DC                       1 hr 33 mins        ███████░░░░░░░░░░░░░░░░░░   29.44 % 
+HPC                      1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+tests                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 💻 Operating System: 
-WSL                      4 hrs 55 mins       █████████████████████████   100.00 % 
+WSL                      5 hrs 16 mins       █████████████████████████   99.90 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -144,7 +146,7 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 22:40:15 UTC
+ Last Updated on 31/10/2026 06:12:02 UTC
 <!--END_SECTION:waka-->
 
 ---
