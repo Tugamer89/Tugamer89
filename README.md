@@ -69,7 +69,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 460.1 kB Used in GitHub's Storage 
+> 📦 460.2 kB Used in GitHub's Storage 
  > 
 > 🏆 3,340 Contributions in the Year 2026
  > 
@@ -106,25 +106,25 @@ Sunday                   1701 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Python                   2 hrs 32 mins       ███████████████░░░░░░░░░░   61.58 % 
-JSON                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-XML                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Java                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+JSON                     26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
+Python                   22 mins             █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+XML                      21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+Java                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+YAML                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 8 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 58 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DC                       2 hrs 19 mins       ██████████████░░░░░░░░░░░   56.33 % 
-autogex                  57 mins             ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
-thasup                   31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-r4-dev-dashboard         15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-simplemr                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+autogex                  57 mins             ████████████░░░░░░░░░░░░░   48.24 % 
+thasup                   31 mins             ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+r4-dev-dashboard         15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+DC                       9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+simplemr                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 
 💻 Operating System: 
-WSL                      3 hrs 32 mins       █████████████████████░░░░   85.56 % 
-Windows                  35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+WSL                      1 hr 22 mins        █████████████████░░░░░░░░   69.67 % 
+Windows                  35 mins             ████████░░░░░░░░░░░░░░░░░   30.33 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -146,7 +146,7 @@ Agda                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2026 19:44:00 UTC
+ Last Updated on 22/11/2026 07:21:08 UTC
 <!--END_SECTION:waka-->
 
 ---
